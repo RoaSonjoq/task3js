@@ -1,0 +1,21 @@
+.products{
+    
+    display: flex;
+    flex-wrap: wrap;
+    gap: 40px;
+}
+
+.product{
+    width: calc((100% - 180px) / 4);
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+}
+.product img{
+width: 40%;
+}
+.product p{
+    font-size: 35px;
+    fo
+}
